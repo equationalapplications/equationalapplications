@@ -1,5 +1,5 @@
-#Kurt VanDusen
-##Freelance Developer
+# Kurt VanDusen
+## Freelance Developer
 
-info@equationalapplications.com
-www.equationalapplications.com
+### info@equationalapplications.com
+#### www.equationalapplications.com
