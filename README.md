@@ -1,6 +1,6 @@
 # Kurt VanDusen
-## Freelance Developer
-### Founder and Sole Proprietor of Equational Applications LLC
+Freelance Developer
+Founder and Sole Proprietor of Equational Applications LLC
 
 ## [www.equationalapplications.com](https://www.equationalapplications.com)
 Equational Applications LLC publishes software and provides freelance software development services for web and mobile.
