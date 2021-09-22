@@ -11,9 +11,8 @@ Equational Applications LLC publishes software and provides freelance full-stack
 
 ## Projects
 Contributed updated examples to the open source @ViroCommunity ViroReact augmented reality library for React Native.   
-
 [https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)  
-[https://github.com/ViroCommunity/starter-kit](https://github.com/ViroCommunity/starter-kit)
+[https://github.com/ViroCommunity/starter-kit](https://github.com/ViroCommunity/starter-kit)  
 
-Published AR-Pet augmented reality app on Google Play.
+Published AR-Pet augmented reality app on Google Play.  
 [https://play.google.com/store/apps/details?id=com.equationalapplications.arpet](https://play.google.com/store/apps/details?id=com.equationalapplications.arpet)
