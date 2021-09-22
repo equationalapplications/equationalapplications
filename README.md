@@ -14,3 +14,6 @@ Contributed updated examples to the open source @ViroCommunity ViroReact augment
 
 [https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)  
 [https://github.com/ViroCommunity/starter-kit](https://github.com/ViroCommunity/starter-kit)
+
+Published AR-Pet augmented reality app on Google Play.
+[https://play.google.com/store/apps/details?id=com.equationalapplications.arpet](https://play.google.com/store/apps/details?id=com.equationalapplications.arpet)
