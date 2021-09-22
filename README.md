@@ -4,12 +4,12 @@ Kurt VanDusen - Founder and Sole Proprietor
 Equational Applications LLC publishes software and provides freelance full-stack development services for web and mobile.  
 
 [www.equationalapplications.com](https://www.equationalapplications.com)  
-[info@equationalapplications.com](mailto:info@equationalapplications.comsubject=[GitHub]%20EquationalApplications)
+[info@equationalapplications.com](mailto:info@equationalapplications.com)
 
 ## Hire on Upwork
 [https://www.upwork.com/freelancers/~0190d57fda322b3e73](https://www.upwork.com/freelancers/~0190d57fda322b3e73)
 
 ## Projects
-Checkout this updated ViroReact code sample I created. It scans the Augmented Reality scene and displays a reticle to place an object on the horizontal plane.
+Contributed updated examples to the open source @ViroCommunity ViroReact augmented reality library for React Native.   
 
 [https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)
