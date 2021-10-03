@@ -10,8 +10,8 @@ Equational Applications LLC publishes software and provides freelance full-stack
 [https://www.upwork.com/freelancers/~0190d57fda322b3e73](https://www.upwork.com/freelancers/~0190d57fda322b3e73). 
 
 ## Social Media  
-[https://twitter.com/kurtvandusen](https://twitter.com/kurtvandusen) 
-[https://www.linkedin.com/in/kurtvandusen/](https://www.linkedin.com/in/kurtvandusen/) 
+[https://twitter.com/kurtvandusen](https://twitter.com/kurtvandusen)  
+[https://www.linkedin.com/in/kurtvandusen/](https://www.linkedin.com/in/kurtvandusen/)  
 [https://www.facebook.com/EquationalApplications](https://www.facebook.com/EquationalApplications)  
 
 ## Projects
