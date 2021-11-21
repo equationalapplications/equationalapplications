@@ -1,5 +1,5 @@
 # Equational Applications LLC
-Kurt VanDusen - Founder and Sole Proprietor  
+Kurt VanDusen - Sole-Member
 
 Equational Applications LLC publishes software and provides freelance full-stack development services for web and mobile.  
 
