@@ -14,7 +14,11 @@ Equational Applications LLC publishes software and provides freelance full-stack
 [https://www.linkedin.com/in/kurtvandusen/](https://www.linkedin.com/in/kurtvandusen/)  
 [https://www.facebook.com/EquationalApplications](https://www.facebook.com/EquationalApplications)  
 
-## Projects
+## Projects  
+I am an instructor for Eduonix Jamstack E-Degree Module 3, "Microservices Using NodeJS".
+[Github repository for "Microservices Using NodeJS" demo "Birdsquawk-App"](https://github.com/equationalapplications/BirdSquawk-App)
+[You can sign up for the course on Eduonix](https://www.eduonix.com/jamstack-development-edegree)
+
 Contributed updated examples to the open source @ViroCommunity ViroReact augmented reality library for React Native.   
 [https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)  
 [https://github.com/ViroCommunity/starter-kit](https://github.com/ViroCommunity/starter-kit)
