@@ -17,9 +17,9 @@ Equational Applications LLC publishes software and provides freelance full-stack
 ## Projects  
 I am an instructor for Eduonix Jamstack E-Degree Module Three, "Microservices Using NodeJS".
 
-[Github repository for "Microservices Using NodeJS" demo app](https://github.com/equationalapplications/BirdSquawk-App)
+[Try my "Microservices Using NodeJS" demo app](https://github.com/equationalapplications/BirdSquawk-App)
 
-[You can sign up for the course on Eduonix](https://www.eduonix.com/jamstack-development-edegree)
+[Sign up for the E-Degree on Eduonix](https://www.eduonix.com/jamstack-development-edegree)
 
 Contributed updated examples to the open source @ViroCommunity ViroReact augmented reality library for React Native.   
 [https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)  
