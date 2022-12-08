@@ -15,6 +15,24 @@ Equational Applications LLC publishes software and provides freelance full-stack
 [https://www.facebook.com/EquationalApplications](https://www.facebook.com/EquationalApplications)  
 
 ## Projects  
+
+### React Native Easy Chatbot  
+
+#### Features
+- The API is called using Redux-Saga for clear, testable async logic
+- Axios with Axios-Retry for data fetching
+- API error handling
+- React Error Boundary
+- ESLint and Prettier to standarize formating
+- Husky for conventional commits
+- Jest for unit testing
+- Semantic Release to bump versions and automatically generate CHANGELOG.md
+- Github Actions for CI/CD
+- Gifted Chat for Material Design and accesability
+- Reusable chat component
+
+[https://github.com/equationalapplications/React-Native-Easy-Chatbot](https://github.com/equationalapplications/React-Native-Easy-Chatbot)  
+
 ### I am an instructor for Eduonix Jamstack E-Degree Module Three, "Microservices Using NodeJS".
 
 [Try my "Microservices Using NodeJS" demo app](https://github.com/equationalapplications/BirdSquawk-App)
