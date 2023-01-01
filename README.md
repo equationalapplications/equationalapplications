@@ -14,6 +14,10 @@ Equational Applications LLC publishes software and provides freelance full-stack
 [https://www.linkedin.com/in/kurtvandusen/](https://www.linkedin.com/in/kurtvandusen/)  
 [https://www.facebook.com/EquationalApplications](https://www.facebook.com/EquationalApplications)  
 
+## CodeSignal Coding Report  
+
+[Kurt VanDusen on CodeSignal](https://app.codesignal.com/coding-report/jP259bEBKoZub7pNv-dg4e3yLrGsNnPgK7Wzjqqtia?accessToken=jP259bEBKoZub7pNv-EYjKSPKsq3W2pvnqqo3pMvci)
+
 ## Projects  
 
 ### React Native Easy Chatbot  
