@@ -22,7 +22,7 @@ Equational Applications LLC publishes software and provides freelance full-stack
 
 ### Yours Brightly AI  
 
-Expo React Native app for Android, iOS and web.  
+Design your own AI friend and assistant with its own personality and memories! Expo React Native app for Android, iOS and web.  
 https://yours-brightly-ai.equationalapplications.com  
 https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai  
 
