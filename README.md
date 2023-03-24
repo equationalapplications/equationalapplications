@@ -29,7 +29,7 @@ https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbr
 #### Features
 - Create and interact with AI characters powered by GPT-3 from OpenAI
 - Frontend: Expo - one code base for Android, iOS, and web
-- Backend: Google Cloud Functions, OpenAI API, and Node.js with TypeScript
+- Backend: Google Cloud Functions, OpenAI API, Firebase, and Node.js with TypeScript
 - Cross-platform monthly subscriptions with RevenueCat
 - CI/CD with Github Actions, Semantic Release, and Expo EAS
 - Social Auth with Firebase, Google SignIn, and Facebook
