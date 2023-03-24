@@ -22,9 +22,16 @@ Equational Applications LLC publishes software and provides freelance full-stack
 
 ### Yours Brightly AI  
 
-Expo React Native app for Android, iOS and web.
-https://yours-brightly-ai.equationalapplications.com/
-https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai
+Expo React Native app for Android, iOS and web.  
+https://yours-brightly-ai.equationalapplications.com  
+https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai  
+
+#### Features
+- OpenAI API backend with Google Cloud Functions and Node.js with TypeScript
+- Social Auth with Firebase, Google SignIn, and Facebook
+- Create and interact with AI characters
+- One code base for Android, iOS, and web
+- Material Design with React Native Paper
 
 ### React Native Easy Chatbot  
 
