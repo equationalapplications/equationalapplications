@@ -27,7 +27,7 @@ https://yours-brightly-ai.equationalapplications.com
 https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai  
 
 #### Features
-- Create and interact with AI characters
+- Create and interact with AI characters powered by GPT-3 from OpenAI
 - Frontend: Expo - one code base for Android, iOS, and web
 - Backend: Google Cloud Functions, OpenAI API, and Node.js with TypeScript
 - Cross-platform monthly subscriptions with RevenueCat
