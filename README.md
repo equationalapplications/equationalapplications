@@ -20,6 +20,12 @@ Equational Applications LLC publishes software and provides freelance full-stack
 
 ## Projects  
 
+### Yours Brightly AI  
+
+Expo React Native app for Android, iOS and web.
+https://yours-brightly-ai.equationalapplications.com/
+https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai
+
 ### React Native Easy Chatbot  
 
 [https://github.com/equationalapplications/React-Native-Easy-Chatbot](https://github.com/equationalapplications/React-Native-Easy-Chatbot) 
@@ -51,5 +57,3 @@ Equational Applications LLC publishes software and provides freelance full-stack
 Hello World ViroReact Augmented Reality Tutorial [https://youtu.be/Nn0m44i-Wf8](https://youtu.be/Nn0m44i-Wf8)  
 Create a React Native stack you can use to build more complex augmented reality / virtual reality projects! [https://youtu.be/gX5y2Htvs2Y](https://youtu.be/gX5y2Htvs2Y)
 
-### Published AR-Pet augmented reality app on Google Play.  
-[https://play.google.com/store/apps/details?id=com.equationalapplications.arpet](https://play.google.com/store/apps/details?id=com.equationalapplications.arpet)
