@@ -27,11 +27,12 @@ https://yours-brightly-ai.equationalapplications.com
 https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai  
 
 #### Features
+- Create and interact with AI characters
 - Frontend: Expo - one code base for Android, iOS, and web
 - Backend: Google Cloud Functions, OpenAI API, and Node.js with TypeScript
+- Cross-platform monthly subscriptions with RevenueCat
 - CI/CD with Github Actions, Semantic Release, and Expo EAS
 - Social Auth with Firebase, Google SignIn, and Facebook
-- Create and interact with AI characters
 - Material Design with React Native Paper
 
 ### React Native Easy Chatbot  
