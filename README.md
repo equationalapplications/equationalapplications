@@ -29,6 +29,7 @@ https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbr
 #### Features
 - Frontend: Expo - one code base for Android, iOS, and web
 - Backend: Google Cloud Functions, OpenAI API, and Node.js with TypeScript
+- CI/CD with Github Actions and Expo EAS
 - Social Auth with Firebase, Google SignIn, and Facebook
 - Create and interact with AI characters
 - Material Design with React Native Paper
