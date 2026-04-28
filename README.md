@@ -1,70 +1,90 @@
 # Equational Applications LLC
-Kurt VanDusen - Founder and Sole Member
+Kurt VanDusen — Founder and Sole Member
 
-Equational Applications LLC publishes software and provides freelance full-stack development services for web and mobile.  
+Full-stack developer specializing in AI-powered mobile and web apps. Building production-grade cross-platform apps with React Native / Expo, Firebase, Google Cloud, and modern AI (Vertex AI, Claude, LangChain). Building in public.
+
+**React Native · React · Node.js · PostgreSQL · Apollo GraphQL · Vertex AI · TypeScript**
 
 [www.equationalapplications.com](https://www.equationalapplications.com)  
 [info@equationalapplications.com](mailto:info@equationalapplications.com)
 
-## Hire on Upwork
-[https://www.upwork.com/freelancers/~0190d57fda322b3e73](https://www.upwork.com/freelancers/~0190d57fda322b3e73). 
+## Connect
+[LinkedIn](https://www.linkedin.com/in/kurtvandusen/)  
+[Upwork Profile](https://www.upwork.com/freelancers/~0190d57fda322b3e73)
 
-## Social Media  
-[https://twitter.com/kurtvandusen](https://twitter.com/kurtvandusen)  
-[https://www.linkedin.com/in/kurtvandusen/](https://www.linkedin.com/in/kurtvandusen/)  
-[https://www.facebook.com/EquationalApplications](https://www.facebook.com/EquationalApplications)  
+## Certifications
+- [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/KhVuVm) — Google, Aug 2023
+- [General Coding Assessment](https://app.codesignal.com/coding-report/jP259bEBKoZub7pNv-dg4e3yLrGsNnPgK7Wzjqqtia?accessToken=jP259bEBKoZub7pNv-EYjKSPKsq3W2pvnqqo3pMvci) — CodeSignal, Dec 2022
 
-## CodeSignal Coding Report  
+## Press
+[Conversations with Kurt VanDusen — Voyage Michigan Magazine](https://lnkd.in/gizeJYkY)
 
-[Kurt VanDusen on CodeSignal](https://app.codesignal.com/coding-report/jP259bEBKoZub7pNv-dg4e3yLrGsNnPgK7Wzjqqtia?accessToken=jP259bEBKoZub7pNv-EYjKSPKsq3W2pvnqqo3pMvci)
+## Projects
 
-## Projects  
+### Clanker — Open Source AI Chatbot App
 
-### Yours Brightly AI  
+> Open source AI chatbot platform built in public. Users create custom AI characters and chat with them using Vertex AI. Firebase + Cloud SQL backend with subscription-based access control.
 
-![image](./yours-brightly-ai-screen-1-small.png)
-
-Design your own AI friend and assistant with its own personality and memories! Expo React Native app for Android, iOS and web.  
-https://yours-brightly-ai.equationalapplications.com  
-https://play.google.com/store/apps/details?id=com.equationalapplications.yoursbrightlyai  
+[clanker-ai.com](https://clanker-ai.com) · [github.com/equationalapplications/clanker](https://github.com/equationalapplications/clanker)
 
 #### Features
-- Create and interact with AI characters powered by GPT-3 from OpenAI
-- Frontend: Expo - one code base for Android, iOS, and web
-- Backend: Google Cloud Functions, OpenAI API, Firebase, and Node.js with TypeScript
-- Cross-platform monthly subscriptions with RevenueCat
-- CI/CD with Github Actions, Semantic Release, and Expo EAS
-- Social Auth with Firebase, Google SignIn, and Facebook
-- Material Design with React Native Paper
+- Custom AI character creation with personality and persistent memory
+- Image generation and avatar gallery
+- Chat memory summarization every 20 messages
+- LLM Wiki Memory — structured, queryable facts, tasks, and episodic events
+- Cloud character save and sharing (subscription-gated)
+- Stripe subscriptions with cross-platform access control
+- Spec-driven development with AI agents
 
-### React Native Easy Chatbot  
+#### Tech Stack
+- **Frontend**: React Native 0.81, Expo SDK 54, TypeScript
+- **Navigation**: Expo Router (file-based)
+- **Auth**: Firebase Auth → Cloud SQL bootstrap
+- **Backend**: Firebase Cloud Functions, Cloud SQL (PostgreSQL)
+- **AI**: Google Cloud Vertex AI, Anthropic Claude
+- **State**: xState, TanStack Query, SQLite
+- **Payments**: Stripe
+- **CI/CD**: GitHub Actions, Semantic Release, Expo EAS
 
-[https://github.com/equationalapplications/React-Native-Easy-Chatbot](https://github.com/equationalapplications/React-Native-Easy-Chatbot) 
+---
 
-#### Features
-- The API is called using Redux-Saga for clear, testable async logic
-- Axios with Axios-Retry for data fetching
-- API error handling
-- React Error Boundary
-- ESLint and Prettier to standarize formating
-- Husky for conventional commits
-- Jest for unit testing
-- Semantic Release to bump versions and automatically generate CHANGELOG.md
-- Github Actions for CI/CD
-- Gifted Chat for Material Design and accesability
-- Reusable chat component 
+### Marketing Agent — GCP + Vertex AI
 
-### I am an instructor for Eduonix Jamstack E-Degree Module Three, "Microservices Using NodeJS".
+> Hybrid marketing agent for promoting a cross-platform app. Vertex AI Agent Builder for campaign logic, Cloud Run for production deployment.
 
-[Try my "Microservices Using NodeJS" demo app](https://github.com/equationalapplications/BirdSquawk-App)
+[github.com/equationalapplications/marketing-agent-gcp-adk](https://github.com/equationalapplications/marketing-agent-gcp-adk)
 
-[Sign up for the E-Degree on Eduonix](https://www.eduonix.com/jamstack-development-edegree)
+---
 
-### Contributed updated examples to the open source @ViroCommunity ViroReact augmented reality library for React Native.   
-[https://github.com/ViroCommunity/samples](https://github.com/ViroCommunity/samples)  
-[https://github.com/ViroCommunity/starter-kit](https://github.com/ViroCommunity/starter-kit)
+### RAG Chatbot — LangFlow + ChromaDB
 
-### Created tutorial videos.   
-Hello World ViroReact Augmented Reality Tutorial [https://youtu.be/Nn0m44i-Wf8](https://youtu.be/Nn0m44i-Wf8)  
-Create a React Native stack you can use to build more complex augmented reality / virtual reality projects! [https://youtu.be/gX5y2Htvs2Y](https://youtu.be/gX5y2Htvs2Y)
+> Local retrieval-augmented generation chatbot using LangFlow, ChromaDB, and OpenAI. Fully Dockerized.
 
+[github.com/equationalapplications/RAG-LangFlow-ChromaDB](https://github.com/equationalapplications/RAG-LangFlow-ChromaDB)
+
+---
+
+### Firebase Auth → Supabase Bridge
+
+> Exchange a Firebase Auth token for a real Supabase session — no Supabase SSO add-on required.
+
+[github.com/equationalapplications/firebase-auth-supabase-bridge](https://github.com/equationalapplications/firebase-auth-supabase-bridge)
+
+---
+
+### Microservices with NodeJS — Eduonix Jamstack E-Degree
+
+Instructor for Module 3 of the Eduonix Jamstack E-Degree.
+
+[Demo App](https://github.com/equationalapplications/BirdSquawk-App) · [Sign up on Eduonix](https://www.eduonix.com/jamstack-development-edegree)
+
+---
+
+### ViroReact AR — Open Source Contributions
+
+Contributed updated examples to the [@ViroCommunity](https://github.com/ViroCommunity) ViroReact augmented reality library for React Native.
+
+[samples](https://github.com/ViroCommunity/samples) · [starter-kit](https://github.com/ViroCommunity/starter-kit)
+
+AR Tutorial Videos:  
+[Hello World ViroReact](https://youtu.be/Nn0m44i-Wf8) · [React Native AR/VR Stack](https://youtu.be/gX5y2Htvs2Y)
