@@ -25,7 +25,7 @@ Full-stack developer specializing in AI-powered mobile and web apps. Building pr
 
 > Open source AI chatbot platform built in public. Users create custom AI characters and chat with them using Vertex AI. Firebase + Cloud SQL backend with subscription-based access control.
 
-[clanker-ai.com](https://clanker-ai.com) · [github.com/equationalapplications/clanker](https://github.com/equationalapplications/clanker)
+[clanker-ai.com](https://clanker-ai.com) · [GitHub](https://github.com/equationalapplications/clanker) · [App Store](https://apps.apple.com/us/app/clanker-ai/id6754219831) · [Google Play](https://play.google.com/store/apps/details?id=com.equationalapplications.clanker)
 
 #### Features
 - Custom AI character creation with personality and persistent memory
