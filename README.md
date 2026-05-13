@@ -95,9 +95,10 @@ Grew up going to computer camp and fixing home computers. Created one of the fir
 
 > A modular LLM wiki memory system for React Native / Expo apps. Provides structured, queryable facts, tasks, and episodic events for AI characters and agents.
 
-- [core-llm-wiki](https://github.com/equationalapplications/core-llm-wiki) — Core logic and data model
-- [react-llm-wiki](https://github.com/equationalapplications/react-llm-wiki) — React hooks and context
-- [expo-llm-wiki](https://github.com/equationalapplications/expo-llm-wiki) — Expo / SQLite integration
+[expo-llm-wiki](https://github.com/equationalapplications/expo-llm-wiki) — Mono Repo
+- Typescript Core Logic
+- React Hooks
+- Expo Package
 
 ---
 
